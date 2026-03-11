@@ -25,4 +25,4 @@ Se han desarrollado y comparado diversas estrategias de búsqueda para encontrar
 ## Estructura del Repositorio
 * `CDP_0_SRC.ipynb`, `CDP_1_SRC.ipynb`, `CDP_2_SRC.ipynb`: Notebooks que documentan los Sprints del proyecto, desde la carga de datos hasta la optimización avanzada.
 * `downsampling.py`: Script de utilidad para el submuestreo de la base de datos original, permitiendo pruebas ágiles.
-* `/docs`: Memoria técnica detallada con el análisis comparativo de resultados y convergencia de los algoritmos.
+* `CDP_HB.pdf`: Memoria técnica detallada con el análisis comparativo de resultados y convergencia de los algoritmos.
